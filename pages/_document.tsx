@@ -4,7 +4,7 @@ export default function Document() {
     return (
         <Html lang="en">
             <Head>
-                <meta name="twitter:card" content="summary_large_image" />
+                <meta name="twitter:card" content="summary" />
                 <meta name="twitter:site" content="@nytimes" />
                 <meta name="twitter:creator" content="@SarahMaslinNir" />
                 <meta name="twitter:title" content="Parade of Fans for Houston’s Funeral" />
